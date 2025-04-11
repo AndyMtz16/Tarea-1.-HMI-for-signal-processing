@@ -1,5 +1,5 @@
 Procesador de Audio con Interfaz Gráfica
-Este proyecto es una aplicación en Python que desarrollé para mi clase de Interfaces Humano-Máquina. La idea es que puedas cargar archivos de audio, aplicarles distintos filtros y ver cómo cambia la señal en tiempo real. Además, podrás escuchar la diferencia entre el audio original y el filtrado.
+La idea es que puedas cargar archivos de audio, aplicarles distintos filtros y ver cómo cambia la señal en tiempo real. Además, podrás escuchar la diferencia entre el audio original y el filtrado.
 
 ¿Qué hace la aplicación?
 Permite cargar archivos de audio en formatos como WAV, MP3 y AAC.
